@@ -1,0 +1,1 @@
+Não conformidade - não irá validar email no momento de Cadastrar um Contato do Tipo email.
